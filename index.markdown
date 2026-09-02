@@ -4,3 +4,17 @@
 
 layout: default
 ---
+
+Welcome to this page about **succulent plants**.
+
+# Graptoveria 
+
+Graptoveria Lovely Rose, Graptoveria Titubans
+
+# Echeveria
+
+Echeveria Pulidonis
+
+# Sedum
+
+Sedum Pachyphyllum Jelly Bean
