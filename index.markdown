@@ -7,7 +7,7 @@ layout: default
 
 Welcome to this page about **succulent plants**.
 
-[About]({% link about.markdown %})
+[About]({{ site.baseurl }}{% link about.markdown %})
 
 # Graptoveria 
 
