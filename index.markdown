@@ -5,13 +5,15 @@
 layout: default
 ---
 
-Welcome to this page about **succulent plants**.
+Welcome to this page about **succulent plants**.  
 
 [About]({{ site.baseurl }}{% link about.markdown %})
 
 # Graptoveria 
 
 Graptoveria Lovely Rose, Graptoveria Titubans
+
+![Image]({{ site.baseurl }}/graptoveria1.jpg)
 
 # Sedum
 
