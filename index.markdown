@@ -7,8 +7,6 @@ layout: default
 
 Welcome to this page about **succulent plants**.  
 
-[About]({{ site.baseurl }}{% link about.markdown %})
-
 # Graptoveria 
 
 Graptoveria Lovely Rose, Graptoveria Titubans
@@ -23,4 +21,5 @@ Sedum Pachyphyllum Jelly Bean
 
 Echeveria Pulidonis
 
+[About]({{ site.baseurl }}{% link about.markdown %})
 [Google](https://google.com)
